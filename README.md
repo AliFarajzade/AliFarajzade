@@ -3,8 +3,17 @@
 [![Website](https://img.shields.io/website?label=alifaraj.ir&style=for-the-badge&url=https%3A%2F%2Falifaraj.ir)](https://alifaraj.ir)
 ![Working Since](https://img.shields.io/badge/Working%20Since-2019-informational?style=for-the-badge&logo=appveyor)
 
-![Ali Farajzade GitHub stats](https://github-readme-stats.vercel.app/api?username=AliFarajzade&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliFarajzade&layout=compact)]()
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AliFarajzade&show_icons=true&theme=radical" width="45%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliFarajzade&layout=compact" width="40%" />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## I'm a Developer, Liunx Nerd and Gamer!!
 
@@ -12,12 +21,18 @@
 -   I'm fluent in English language.
 -   I'm the fan of [GraphQL](https://graphql.org/), [Prisma](https://prisma.io) and [PostgreSQL](https://www.postgresql.org/).
 
+<br />
+<br />
+
 ## 2022 Goals:
 
 -   🌱 I’m currently learning everything 🤣
 -   🥅 Learn more about Back-End
 
-### Languages and tools that I use:
+<br />
+<br />
+
+## Languages and tools that I use:
 
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" title="HTML5" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -41,10 +56,6 @@
 <br />
 <br />
 
-### Connect with me:
+## Connect with me:
 
 [Portfolio Website](https://alifaraj.ir)
-
-<br />
-<br />
-
