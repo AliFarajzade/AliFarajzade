@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=alifaraj.ir&style=for-the-badge&url=https%3A%2F%2Falifaraj.ir)](https://alifaraj.ir)
 ![Working Since](https://img.shields.io/badge/Working%20Since-2019-informational?style=for-the-badge&logo=appveyor)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AliFarajzade&show_icons=true&theme=radical" width="45%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AliFarajzade&show_icons=true&theme=radical&layout=compact&hide=stars,prs,issues,contribs" width="45%" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliFarajzade&layout=compact" width="40%" />
 
 <br />
